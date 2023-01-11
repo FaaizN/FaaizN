@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faaiz Nadeem</h1>
-<h3 align="center">I'm a junior at the University of Texas at Dallas studying Data Science!</h3>
+<h3 align="center">I'm a senior at the University of Texas at Dallas studying Data Science!</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
