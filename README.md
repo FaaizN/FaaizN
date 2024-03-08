@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faaiz Nadeem</h1>
-<h3 align="center">I'm a senior at the University of Texas at Dallas studying Data Science!</h3>
+<h3 align="center">I'm a Data Science graduate and an AI/Machine Learning Enthusiast!</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Image Segmentation**
 
 - 💬 Ask me about **Data Analysis and Machine Learning**
 
